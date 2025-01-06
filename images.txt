@@ -1,3 +1,4 @@
 elasticsearch:7.6.1
 kibana:7.6.1
 lmenezes/cerebro
+--platform=linux/arm64 elasticsearch:8.12.2
